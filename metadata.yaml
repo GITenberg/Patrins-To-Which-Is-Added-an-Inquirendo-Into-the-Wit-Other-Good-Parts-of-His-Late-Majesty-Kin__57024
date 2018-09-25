@@ -1,7 +1,10 @@
 _repo: Patrins-To-Which-Is-Added-an-Inquirendo-Into-the-Wit-Other-Good-Parts-of-His-Late-Majesty-Kin__57024
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "Patrins\r\nTo Which Is Added an Inquirendo Into the Wit and Other\
   \ Good Parts of His Late Majesty King Charles II"
+covers:
+- cover_type: archival
+  image_path: 57024-h/images/cover.jpg
 creator:
   author:
     agent_name: Guiney, Louise Imogen
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39368
     wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57024#Patrins-To-Which-Is-Added-an-Inquirendo-Into-the-Wit-Other-Good-Parts-of-His-Late-Majesty-Kin_
 gutenberg_issued: '2018-04-22'
 gutenberg_type: Text
 identifiers:
